@@ -1,0 +1,16 @@
+.vs/
+x64/
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.iobj
+*.ipdb
+*.idb
+*.recipe
+*.tlog/
+*.log
+scan*.txt
+scan.log
+config.txt
+*.vcxproj.user

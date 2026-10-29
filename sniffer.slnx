@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="sniffer/sniffer.vcxproj" Id="0282b91c-c2bc-4cef-b420-f0c6067334e2" />
+</Solution>
